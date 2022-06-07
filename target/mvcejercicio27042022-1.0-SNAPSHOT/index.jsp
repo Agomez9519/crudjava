@@ -31,7 +31,7 @@
             </div>
             <div class="form-field d-flex align-items-center">
                 <span class="fas fa-key"></span>
-                <input type="text" name="txtPass" id="txtPass" placeholder="Pass">
+                <input type="password" name="txtPass" id="txtPass" placeholder="Pass">
             </div>  
             <div>
                 <span class="vacio">Valide Todos los campos</span>
